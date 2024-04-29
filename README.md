@@ -17,9 +17,9 @@ npm install
 ## Customization
 If you want to customize the randomness, you can modify the items in the following arrays:
 
-- noun: Contains nouns for randomization.
+- `noun`: Contains nouns for randomization.
 
-- adj: Contains adjectives for randomization.
+- `adj`: Contains adjectives for randomization.
 
 Feel free to adjust these arrays to suit your preferences and needs!
 
