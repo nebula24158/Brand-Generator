@@ -12,7 +12,7 @@ npm install
 
 2. Once the dependencies are installed, open your web browser and navigate to 'localhost:3000'.
 
-3. Start randomizing by clicking on the "Randomize" button!
+3. Start randomizing by clicking on the "Generate Name" button!
 
 ## Customization
 If you want to customize the randomness, you can modify the items in the following arrays:
